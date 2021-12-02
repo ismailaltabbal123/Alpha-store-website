@@ -1,0 +1,315 @@
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.div-1 {
+    width: 70%;
+    height: auto;
+    margin: 0px auto;      
+    margin-top: 0px;
+    padding: 20px;
+}
+
+
+header {
+    overflow:hidden;
+    width: auto;
+    padding: 20px 40px;
+    margin-bottom: 0px;
+    color: white;
+    margin-bottom: 100px;
+    
+}
+nav ul {
+    list-style: none;
+    color: white;
+    display:flex;
+    float: right;
+    margin: 15px 0px;
+    padding: 0px;
+    font-size: 17px;
+    
+
+
+}
+nav ul li {
+    text-align: center;
+    width: fit-content;
+    margin: 0px 20px;
+
+    
+    
+    
+}
+.login-design {
+    background-color: rgba(255, 225, 0, 0.849);
+    border-radius: 10px;
+    padding: 10px;
+    font-weight: 600;
+    color: black;
+    text-decoration: none;
+}
+
+.login-design:hover {
+    background-color: rgb(255, 225, 0);
+    text-decoration: none;
+
+
+}
+
+.logo {
+    color: rgb(247, 247, 247);
+    margin: 10px 0px;
+    padding: 0%;
+    text-shadow: 3px 2px 1px rgba(0, 0, 0, 0.329);
+    letter-spacing: 0px;
+    word-spacing: 0px;
+    float: left;   
+    
+}
+.contener-2{
+    font-size: 10px;
+
+}
+
+.contener-2-1 {
+    width: fit-content;
+    display: block;
+    margin: 0px auto;
+    border-radius: 20px;
+    padding: 37px 44px;
+    
+
+}
+
+.h2-2 {
+    font-size: 45px;
+    color: white;
+    width: fit-content;
+    display: block;
+    margin: 0px auto;
+    text-align: center;
+}
+.p-1 {
+    letter-spacing: 1px;
+    color: rgba(255, 255, 255, 0.781);
+    text-align: center;
+    width: 536px;
+    margin: 15px auto;
+    font-family: 'Roboto', sans-serif;
+    line-height: 20px;
+    font-size: 15px;
+    font-weight: bold;
+}
+.button-1 {
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    padding: 10px 10px;
+    background-color: rgba(255, 227, 0, 0.822);
+    width: 100px;
+    display: block;
+    border-radius: 50px;                    
+    margin: 0px auto;
+    font-size: 12px;
+    border: 0px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    
+}
+.button-1:hover {
+    color:black;
+    font-weight: bold;
+    padding: 10px 10px;
+    background-color: rgb(255, 227, 0);
+    width: 100px;
+    display: block;
+    border-radius: 50px;
+    margin: 0px auto;
+    font-size: 12px;
+    border: 0px;
+}
+.button-1:visited {
+    color: black;
+}
+p {
+    text-align: center;
+    width: 84%;
+    margin: 5px auto;
+    font-family: 'Roboto', sans-serif;
+    line-height: 20px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.person-2 {
+    width: 48%;
+    margin: 15px auto;
+    display: block;
+    border-radius: 100%;
+}
+.person-1 {
+    width: 40%;
+    margin: 15px auto;
+    display: block;
+    border-radius: 6%;
+}
+
+#h2-1 {
+    color: rgb(32, 32, 32);
+    display: table;
+    margin: 0px auto;
+    
+}
+.link-1:link {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+.link-1:visited {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+
+}
+.link-1:hover {
+    text-shadow: 1px 1px 10px rgb(255, 227, 0);
+    border-bottom: 2.5px solid rgba(255, 255, 0, 0.788);
+    color: rgb(255, 255, 255);
+}
+.contener-1 {
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.479) 0%, rgba(0, 0, 0, 0.555) 100%), url('images/1624.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: auto;
+    height: 600px;
+    background-attachment: fixed;
+    margin-bottom: 60px;
+
+}
+.hr {
+    width: 10%;
+    border: 2px solid rgb(255, 225, 0);
+    margin-bottom: 20px;
+}
+
+.abuot {
+    width: auto;
+    height: auto;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.479) 0%, rgba(0, 0, 0, 0.555) 100%), url('images/3660.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    margin-top: 60px;
+    padding: 125px 0px;
+
+}
+.abuot-div {
+    width: 70%;
+    margin: 0px auto;
+}
+.h2-11 {
+    font-size: 34px;
+    color: white;
+    margin: 0px;
+    padding: 0px;
+    text-align: left;
+    text-transform: uppercase;
+    margin-bottom: 6px;
+    letter-spacing: 1px;
+}
+.hr-1-1 {
+    width: 11%;
+    height: 2px;
+    background-color: yellow;
+    border-color: yellow;
+    border-radius: 6px;
+    margin: 0px auto 17px 0px;
+}
+.p-11 {
+    color: white;
+    margin: 0px;
+    padding: 0px;
+    width: auto;
+    text-align: left;
+    font-size: 16px;
+    word-spacing: 1px;
+    line-height: 25px;
+    text-shadow: 1px 1px 23px #00000066;
+}
+/* ########################## servce ######################## */
+.div-poso {
+    margin: 0px auto;
+    padding: 0px;
+    width: fit-content;
+    position: relative;
+    top: -131px;
+}
+.Service-h {
+    width: fit-content;
+    font-size: 30px;
+    margin: 0px auto;
+}
+.service-hr {
+    width: 6%;
+    background-color: yellow;
+    height: 5px;
+    border: none;
+    border-radius: 5px;
+}
+.img-service {
+    width: 60px;
+    display: block;
+    margin: 0px auto;
+}
+.img-service-1 {
+    width: 60px;
+    display: block;
+    margin: 0px auto;
+}
+.service-p {
+    width: 89%;
+    display: block;
+    margin: 13% auto;
+}
+.Service-div {
+    display: flex;
+    padding: 46px 0px;
+
+}
+.Service-1 {
+    display: grid;
+    width: 33%;
+    margin: 0px auto;
+}
+/* ########################## Footer ######################## */
+footer {
+ padding: 20px 10px;
+ background-color: #0c0416;
+}
+.footer-div-p {
+    color: #ffffffe0;
+    font-weight: normal;
+}
+.up {
+    width: fit-content;
+    position: relative;
+    color: #ddd;
+    
+    
+}
+.up-p {
+    width: 30px;
+    color: #000000;
+    font-size: 17px;
+    text-decoration: none;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    box-shadow: 1px 1px 20px black;
+    padding: 5px;
+    border-radius: 100%;
+    margin: 24px;
+}
